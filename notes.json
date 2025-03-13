@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1741897431.099111,
+        "titre": "Bonjour",
+        "contenu": "Toi même faut savoir que la vie c'est la guerre",
+        "categorie": "Salutation",
+        "date_creation": "2025-03-13 20:23"
+    },
+    {
+        "id": 1741897528.254956,
+        "titre": "Bonsoir",
+        "contenu": "Lève toi tôt, ca va t'arranger",
+        "categorie": "Salutation tardive",
+        "date_creation": "2025-03-13 20:25"
+    }
+]
